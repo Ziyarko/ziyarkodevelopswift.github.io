@@ -6,81 +6,76 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		46E7A61C2CCA9E5A00DE63DB /* Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E7A61B2CCA9E5A00DE63DB /* Sign.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
-		46E7A5E62CCA9D6F00DE63DB /* PBXContainerItemProxy */ = {
+		46E7A63D2CCAB64300DE63DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 46E7A5C72CCA9D6A00DE63DB /* Project object */;
+			containerPortal = 46E7A61E2CCAB63A00DE63DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 46E7A5CE2CCA9D6A00DE63DB;
-			remoteInfo = "RockPaperScissors Final";
+			remoteGlobalIDString = 46E7A6252CCAB63B00DE63DB;
+			remoteInfo = ChatBotFinal;
 		};
-		46E7A5F02CCA9D6F00DE63DB /* PBXContainerItemProxy */ = {
+		46E7A6472CCAB64300DE63DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 46E7A5C72CCA9D6A00DE63DB /* Project object */;
+			containerPortal = 46E7A61E2CCAB63A00DE63DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 46E7A5CE2CCA9D6A00DE63DB;
-			remoteInfo = "RockPaperScissors Final";
+			remoteGlobalIDString = 46E7A6252CCAB63B00DE63DB;
+			remoteInfo = ChatBotFinal;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		46E7A5CF2CCA9D6A00DE63DB /* RockPaperScissors Final.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RockPaperScissors Final.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		46E7A5E52CCA9D6F00DE63DB /* RockPaperScissors FinalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RockPaperScissors FinalTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		46E7A5EF2CCA9D6F00DE63DB /* RockPaperScissors FinalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RockPaperScissors FinalUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		46E7A61B2CCA9E5A00DE63DB /* Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
+		46E7A6262CCAB63B00DE63DB /* ChatBotFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatBotFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		46E7A63C2CCAB64300DE63DB /* ChatBotFinalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatBotFinalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		46E7A6462CCAB64300DE63DB /* ChatBotFinalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatBotFinalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		46E7A5F72CCA9D6F00DE63DB /* Exceptions for "RockPaperScissors Final" folder in "RockPaperScissors Final" target */ = {
+		46E7A64E2CCAB64300DE63DB /* Exceptions for "ChatBotFinal" folder in "ChatBotFinal" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 46E7A5CE2CCA9D6A00DE63DB /* RockPaperScissors Final */;
+			target = 46E7A6252CCAB63B00DE63DB /* ChatBotFinal */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		46E7A5D12CCA9D6A00DE63DB /* RockPaperScissors Final */ = {
+		46E7A6282CCAB63B00DE63DB /* ChatBotFinal */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				46E7A5F72CCA9D6F00DE63DB /* Exceptions for "RockPaperScissors Final" folder in "RockPaperScissors Final" target */,
+				46E7A64E2CCAB64300DE63DB /* Exceptions for "ChatBotFinal" folder in "ChatBotFinal" target */,
 			);
-			path = "RockPaperScissors Final";
+			path = ChatBotFinal;
 			sourceTree = "<group>";
 		};
-		46E7A5E82CCA9D6F00DE63DB /* RockPaperScissors FinalTests */ = {
+		46E7A63F2CCAB64300DE63DB /* ChatBotFinalTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "RockPaperScissors FinalTests";
+			path = ChatBotFinalTests;
 			sourceTree = "<group>";
 		};
-		46E7A5F22CCA9D6F00DE63DB /* RockPaperScissors FinalUITests */ = {
+		46E7A6492CCAB64300DE63DB /* ChatBotFinalUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "RockPaperScissors FinalUITests";
+			path = ChatBotFinalUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		46E7A5CC2CCA9D6A00DE63DB /* Frameworks */ = {
+		46E7A6232CCAB63B00DE63DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46E7A5E22CCA9D6F00DE63DB /* Frameworks */ = {
+		46E7A6392CCAB64300DE63DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46E7A5EC2CCA9D6F00DE63DB /* Frameworks */ = {
+		46E7A6432CCAB64300DE63DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -90,23 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		46E7A5C62CCA9D6A00DE63DB = {
+		46E7A61D2CCAB63A00DE63DB = {
 			isa = PBXGroup;
 			children = (
-				46E7A61B2CCA9E5A00DE63DB /* Sign.swift */,
-				46E7A5D12CCA9D6A00DE63DB /* RockPaperScissors Final */,
-				46E7A5E82CCA9D6F00DE63DB /* RockPaperScissors FinalTests */,
-				46E7A5F22CCA9D6F00DE63DB /* RockPaperScissors FinalUITests */,
-				46E7A5D02CCA9D6A00DE63DB /* Products */,
+				46E7A6282CCAB63B00DE63DB /* ChatBotFinal */,
+				46E7A63F2CCAB64300DE63DB /* ChatBotFinalTests */,
+				46E7A6492CCAB64300DE63DB /* ChatBotFinalUITests */,
+				46E7A6272CCAB63B00DE63DB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		46E7A5D02CCA9D6A00DE63DB /* Products */ = {
+		46E7A6272CCAB63B00DE63DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				46E7A5CF2CCA9D6A00DE63DB /* RockPaperScissors Final.app */,
-				46E7A5E52CCA9D6F00DE63DB /* RockPaperScissors FinalTests.xctest */,
-				46E7A5EF2CCA9D6F00DE63DB /* RockPaperScissors FinalUITests.xctest */,
+				46E7A6262CCAB63B00DE63DB /* ChatBotFinal.app */,
+				46E7A63C2CCAB64300DE63DB /* ChatBotFinalTests.xctest */,
+				46E7A6462CCAB64300DE63DB /* ChatBotFinalUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -114,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		46E7A5CE2CCA9D6A00DE63DB /* RockPaperScissors Final */ = {
+		46E7A6252CCAB63B00DE63DB /* ChatBotFinal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46E7A5F82CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors Final" */;
+			buildConfigurationList = 46E7A64F2CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinal" */;
 			buildPhases = (
-				46E7A5CB2CCA9D6A00DE63DB /* Sources */,
-				46E7A5CC2CCA9D6A00DE63DB /* Frameworks */,
-				46E7A5CD2CCA9D6A00DE63DB /* Resources */,
+				46E7A6222CCAB63B00DE63DB /* Sources */,
+				46E7A6232CCAB63B00DE63DB /* Frameworks */,
+				46E7A6242CCAB63B00DE63DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				46E7A5D12CCA9D6A00DE63DB /* RockPaperScissors Final */,
+				46E7A6282CCAB63B00DE63DB /* ChatBotFinal */,
 			);
-			name = "RockPaperScissors Final";
+			name = ChatBotFinal;
 			packageProductDependencies = (
 			);
-			productName = "RockPaperScissors Final";
-			productReference = 46E7A5CF2CCA9D6A00DE63DB /* RockPaperScissors Final.app */;
+			productName = ChatBotFinal;
+			productReference = 46E7A6262CCAB63B00DE63DB /* ChatBotFinal.app */;
 			productType = "com.apple.product-type.application";
 		};
-		46E7A5E42CCA9D6F00DE63DB /* RockPaperScissors FinalTests */ = {
+		46E7A63B2CCAB64300DE63DB /* ChatBotFinalTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46E7A5FD2CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors FinalTests" */;
+			buildConfigurationList = 46E7A6542CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinalTests" */;
 			buildPhases = (
-				46E7A5E12CCA9D6F00DE63DB /* Sources */,
-				46E7A5E22CCA9D6F00DE63DB /* Frameworks */,
-				46E7A5E32CCA9D6F00DE63DB /* Resources */,
+				46E7A6382CCAB64300DE63DB /* Sources */,
+				46E7A6392CCAB64300DE63DB /* Frameworks */,
+				46E7A63A2CCAB64300DE63DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				46E7A5E72CCA9D6F00DE63DB /* PBXTargetDependency */,
+				46E7A63E2CCAB64300DE63DB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				46E7A5E82CCA9D6F00DE63DB /* RockPaperScissors FinalTests */,
+				46E7A63F2CCAB64300DE63DB /* ChatBotFinalTests */,
 			);
-			name = "RockPaperScissors FinalTests";
+			name = ChatBotFinalTests;
 			packageProductDependencies = (
 			);
-			productName = "RockPaperScissors FinalTests";
-			productReference = 46E7A5E52CCA9D6F00DE63DB /* RockPaperScissors FinalTests.xctest */;
+			productName = ChatBotFinalTests;
+			productReference = 46E7A63C2CCAB64300DE63DB /* ChatBotFinalTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		46E7A5EE2CCA9D6F00DE63DB /* RockPaperScissors FinalUITests */ = {
+		46E7A6452CCAB64300DE63DB /* ChatBotFinalUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46E7A6002CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors FinalUITests" */;
+			buildConfigurationList = 46E7A6572CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinalUITests" */;
 			buildPhases = (
-				46E7A5EB2CCA9D6F00DE63DB /* Sources */,
-				46E7A5EC2CCA9D6F00DE63DB /* Frameworks */,
-				46E7A5ED2CCA9D6F00DE63DB /* Resources */,
+				46E7A6422CCAB64300DE63DB /* Sources */,
+				46E7A6432CCAB64300DE63DB /* Frameworks */,
+				46E7A6442CCAB64300DE63DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				46E7A5F12CCA9D6F00DE63DB /* PBXTargetDependency */,
+				46E7A6482CCAB64300DE63DB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				46E7A5F22CCA9D6F00DE63DB /* RockPaperScissors FinalUITests */,
+				46E7A6492CCAB64300DE63DB /* ChatBotFinalUITests */,
 			);
-			name = "RockPaperScissors FinalUITests";
+			name = ChatBotFinalUITests;
 			packageProductDependencies = (
 			);
-			productName = "RockPaperScissors FinalUITests";
-			productReference = 46E7A5EF2CCA9D6F00DE63DB /* RockPaperScissors FinalUITests.xctest */;
+			productName = ChatBotFinalUITests;
+			productReference = 46E7A6462CCAB64300DE63DB /* ChatBotFinalUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		46E7A5C72CCA9D6A00DE63DB /* Project object */ = {
+		46E7A61E2CCAB63A00DE63DB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					46E7A5CE2CCA9D6A00DE63DB = {
+					46E7A6252CCAB63B00DE63DB = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					46E7A5E42CCA9D6F00DE63DB = {
+					46E7A63B2CCAB64300DE63DB = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 46E7A5CE2CCA9D6A00DE63DB;
+						TestTargetID = 46E7A6252CCAB63B00DE63DB;
 					};
-					46E7A5EE2CCA9D6F00DE63DB = {
+					46E7A6452CCAB64300DE63DB = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 46E7A5CE2CCA9D6A00DE63DB;
+						TestTargetID = 46E7A6252CCAB63B00DE63DB;
 					};
 				};
 			};
-			buildConfigurationList = 46E7A5CA2CCA9D6A00DE63DB /* Build configuration list for PBXProject "RockPaperScissors Final" */;
+			buildConfigurationList = 46E7A6212CCAB63A00DE63DB /* Build configuration list for PBXProject "ChatBotFinal" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 46E7A5C62CCA9D6A00DE63DB;
+			mainGroup = 46E7A61D2CCAB63A00DE63DB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 46E7A5D02CCA9D6A00DE63DB /* Products */;
+			productRefGroup = 46E7A6272CCAB63B00DE63DB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				46E7A5CE2CCA9D6A00DE63DB /* RockPaperScissors Final */,
-				46E7A5E42CCA9D6F00DE63DB /* RockPaperScissors FinalTests */,
-				46E7A5EE2CCA9D6F00DE63DB /* RockPaperScissors FinalUITests */,
+				46E7A6252CCAB63B00DE63DB /* ChatBotFinal */,
+				46E7A63B2CCAB64300DE63DB /* ChatBotFinalTests */,
+				46E7A6452CCAB64300DE63DB /* ChatBotFinalUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		46E7A5CD2CCA9D6A00DE63DB /* Resources */ = {
+		46E7A6242CCAB63B00DE63DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46E7A5E32CCA9D6F00DE63DB /* Resources */ = {
+		46E7A63A2CCAB64300DE63DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46E7A5ED2CCA9D6F00DE63DB /* Resources */ = {
+		46E7A6442CCAB64300DE63DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -251,22 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		46E7A5CB2CCA9D6A00DE63DB /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				46E7A61C2CCA9E5A00DE63DB /* Sign.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		46E7A5E12CCA9D6F00DE63DB /* Sources */ = {
+		46E7A6222CCAB63B00DE63DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46E7A5EB2CCA9D6F00DE63DB /* Sources */ = {
+		46E7A6382CCAB64300DE63DB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46E7A6422CCAB64300DE63DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -276,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		46E7A5E72CCA9D6F00DE63DB /* PBXTargetDependency */ = {
+		46E7A63E2CCAB64300DE63DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 46E7A5CE2CCA9D6A00DE63DB /* RockPaperScissors Final */;
-			targetProxy = 46E7A5E62CCA9D6F00DE63DB /* PBXContainerItemProxy */;
+			target = 46E7A6252CCAB63B00DE63DB /* ChatBotFinal */;
+			targetProxy = 46E7A63D2CCAB64300DE63DB /* PBXContainerItemProxy */;
 		};
-		46E7A5F12CCA9D6F00DE63DB /* PBXTargetDependency */ = {
+		46E7A6482CCAB64300DE63DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 46E7A5CE2CCA9D6A00DE63DB /* RockPaperScissors Final */;
-			targetProxy = 46E7A5F02CCA9D6F00DE63DB /* PBXContainerItemProxy */;
+			target = 46E7A6252CCAB63B00DE63DB /* ChatBotFinal */;
+			targetProxy = 46E7A6472CCAB64300DE63DB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		46E7A5F92CCA9D6F00DE63DB /* Debug */ = {
+		46E7A6502CCAB64300DE63DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -297,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "RockPaperScissors Final/Info.plist";
+				INFOPLIST_FILE = ChatBotFinal/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -308,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-Final";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -316,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		46E7A5FA2CCA9D6F00DE63DB /* Release */ = {
+		46E7A6512CCAB64300DE63DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -324,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "RockPaperScissors Final/Info.plist";
+				INFOPLIST_FILE = ChatBotFinal/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -335,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-Final";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,7 +336,7 @@
 			};
 			name = Release;
 		};
-		46E7A5FB2CCA9D6F00DE63DB /* Debug */ = {
+		46E7A6522CCAB64300DE63DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -406,7 +399,7 @@
 			};
 			name = Debug;
 		};
-		46E7A5FC2CCA9D6F00DE63DB /* Release */ = {
+		46E7A6532CCAB64300DE63DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -462,7 +455,7 @@
 			};
 			name = Release;
 		};
-		46E7A5FE2CCA9D6F00DE63DB /* Debug */ = {
+		46E7A6552CCAB64300DE63DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,16 +464,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-FinalTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinalTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RockPaperScissors Final.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RockPaperScissors Final";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChatBotFinal.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ChatBotFinal";
 			};
 			name = Debug;
 		};
-		46E7A5FF2CCA9D6F00DE63DB /* Release */ = {
+		46E7A6562CCAB64300DE63DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,87 +482,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-FinalTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinalTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RockPaperScissors Final.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RockPaperScissors Final";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChatBotFinal.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ChatBotFinal";
 			};
 			name = Release;
 		};
-		46E7A6012CCA9D6F00DE63DB /* Debug */ = {
+		46E7A6582CCAB64300DE63DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-FinalUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinalUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "RockPaperScissors Final";
+				TEST_TARGET_NAME = ChatBotFinal;
 			};
 			name = Debug;
 		};
-		46E7A6022CCA9D6F00DE63DB /* Release */ = {
+		46E7A6592CCAB64300DE63DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.RockPaperScissors-FinalUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ChatBotFinalUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "RockPaperScissors Final";
+				TEST_TARGET_NAME = ChatBotFinal;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		46E7A5CA2CCA9D6A00DE63DB /* Build configuration list for PBXProject "RockPaperScissors Final" */ = {
+		46E7A6212CCAB63A00DE63DB /* Build configuration list for PBXProject "ChatBotFinal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46E7A5FB2CCA9D6F00DE63DB /* Debug */,
-				46E7A5FC2CCA9D6F00DE63DB /* Release */,
+				46E7A6522CCAB64300DE63DB /* Debug */,
+				46E7A6532CCAB64300DE63DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46E7A5F82CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors Final" */ = {
+		46E7A64F2CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46E7A5F92CCA9D6F00DE63DB /* Debug */,
-				46E7A5FA2CCA9D6F00DE63DB /* Release */,
+				46E7A6502CCAB64300DE63DB /* Debug */,
+				46E7A6512CCAB64300DE63DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46E7A5FD2CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors FinalTests" */ = {
+		46E7A6542CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinalTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46E7A5FE2CCA9D6F00DE63DB /* Debug */,
-				46E7A5FF2CCA9D6F00DE63DB /* Release */,
+				46E7A6552CCAB64300DE63DB /* Debug */,
+				46E7A6562CCAB64300DE63DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46E7A6002CCA9D6F00DE63DB /* Build configuration list for PBXNativeTarget "RockPaperScissors FinalUITests" */ = {
+		46E7A6572CCAB64300DE63DB /* Build configuration list for PBXNativeTarget "ChatBotFinalUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46E7A6012CCA9D6F00DE63DB /* Debug */,
-				46E7A6022CCA9D6F00DE63DB /* Release */,
+				46E7A6582CCAB64300DE63DB /* Debug */,
+				46E7A6592CCAB64300DE63DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 46E7A5C72CCA9D6A00DE63DB /* Project object */;
+	rootObject = 46E7A61E2CCAB63A00DE63DB /* Project object */;
 }
