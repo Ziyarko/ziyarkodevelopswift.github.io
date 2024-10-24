@@ -22,20 +22,24 @@
 //Bread: 2.0 TL
 //Milk: 4.0 TL
 //Egg: (price not available)
+//
 
-var shoplist: [String] = ["Apple", "Apple", "Bread", "Bread", "Milk", "Egg"]
-var Shopset = Set(shoplist)
-var itemsprice: [(Item: String , Price: Float)] = [("Apple", 3.5), ("Bread", 2.0), ("Milk", 4.0), ("Yumurta", 0.0)]
-var totalprice: Float = 0
-for Item in itemsprice {
-    if Item.Price == 0 {
-        print("\(Item.Item) price is not available")
+var shoppinglist = ["Apple", "Bread", "Milk", "Apple", "Bread", "Egg"]
+var Shopset = Set(shoppinglist)
+var totalprice: Float = 0.0
+
+var itempricedictionary: [(Item: String, price: Float)] = [("Apple", 3.5), ("Bread", 2.0), ("Milk", 4.0), ("Egg", 0)]
+
+for Item in itempricedictionary {
+    if Item.price == 0 {
+        print("Sorry \(Item.Item) price is not available")
     }
+    
     else {
-            totalprice = totalprice + Item.Price
+        totalprice += Item.price
     }
-     
+
     
 }
+print(totalprice)
 
-print("total price is : \(totalprice)")
